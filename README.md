@@ -1,6 +1,10 @@
 ## Hi everybody 👋
 
-I'm Nacho, from Buenos Aires. Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. I have been writing Python and R since 2018, basically on data science and data analysis projects.
+I'm Nacho, from Buenos Aires. 
+
+![ignacio-ibarra](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. I have been writing Python and R since 2018, basically on data science and data analysis projects.
 
 Currently, I am dedicated to researching Argentine foreign trade, using large international trade datasets like [COMTRADE](https://comtrade.un.org/data/doc/api/), [CEPII-BACI](http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=37), [TradingEconomics](https://tradingeconomics.com/api/) and the **Dirección General de Aduanas** (DGA, General Directorate of Customs). 
 
