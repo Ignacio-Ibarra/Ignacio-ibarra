@@ -9,7 +9,7 @@ Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep
 
 Currently, I am dedicated to researching Argentine foreign trade, using large international trade datasets like [COMTRADE](https://comtrade.un.org/data/doc/api/), [CEPII-BACI](http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=37), [TradingEconomics](https://tradingeconomics.com/api/) and the **Dirección General de Aduanas** (DGA, General Directorate of Customs). 
 
-### My recent projects  
+### #RecentProjects  
 
   * [**Aproximate-String-Matching**](https://github.com/Ignacio-Ibarra/Approximate-String-Matching): 
 
@@ -30,7 +30,7 @@ This program parallelizes the download of tax information of any company located
   * [**PrimeNumbersNicePlot**](https://github.com/Ignacio-Ibarra/PrimeNumbersNicePlot): the prime numbers beauty. 
 
 
-### Skills
+### #LearnedSkills
 
   * Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
