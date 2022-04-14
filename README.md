@@ -5,7 +5,15 @@ I'm Nacho, from Buenos Aires.
 <a href="https://www.linkedin.com/in/ignacio-ibarra-116194150" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. I have been writing Python and R since 2018, basically on data science and data analysis projects.
+Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. 
+
+I have been writing code since 2018 using: 
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 
 Currently, I am dedicated to researching Argentine foreign trade, using large international trade datasets like [COMTRADE](https://comtrade.un.org/data/doc/api/), [CEPII-BACI](http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=37), [TradingEconomics](https://tradingeconomics.com/api/) and the **Dirección General de Aduanas** (DGA, General Directorate of Customs). 
 
