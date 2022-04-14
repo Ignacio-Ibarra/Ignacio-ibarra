@@ -2,7 +2,8 @@
 
 I'm Nacho, from Buenos Aires. 
 
-![https://www.linkedin.com/in/ignacio-ibarra-116194150](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/ignacio-ibarra-116194150" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. I have been writing Python and R since 2018, basically on data science and data analysis projects.
 
