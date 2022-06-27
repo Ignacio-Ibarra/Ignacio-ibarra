@@ -28,7 +28,7 @@ This program parallelizes the download of tax information of any company located
   * [**TA-TE-TI**](https://github.com/Ignacio-Ibarra/TA-TE-TI-simulation): using Monte-Carlo simulation to find empirical probability. 
   * [**NLP-Disaster**](https://github.com/Ignacio-Ibarra/NLP-Disasters): a repo based on the Kaggle contest: Real or Not? NLP with Disaster Tweets
   * [**PrimeNumbersNicePlot**](https://github.com/Ignacio-Ibarra/PrimeNumbersNicePlot): the prime numbers beauty. 
-  * [**WineVarietyClassification with R**](https://github.com/Ignacio-Ibarra/WineVarietyClassification)
+  * [**WineVarietyClassification with R**](https://github.com/Ignacio-Ibarra/WineVarietyClassification): applying Principal Component Analysis and Logistic Regression to the classification of wine varieties based on chemical characteristics.
 
 
 ### #LearnedSkills
