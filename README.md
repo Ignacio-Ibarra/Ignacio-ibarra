@@ -32,13 +32,13 @@ This program parallelizes the download of tax information of any company located
   * [**WineVarietyClassification with R**](https://github.com/Ignacio-Ibarra/WineVarietyClassification): applying Principal Component Analysis and Logistic Regression to the classification of wine varieties based on chemical characteristics.
 
 
-### #LearnedSkills
+### #MySkills
 
-  * Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  * Languages: [![python-r](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
 
   * ML Packages: ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   
-  * Cloud: ![gcp](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcloud.google.com%2F_static%2Fcloud%2Fimages%2Fsocial-icon-google-cloud-1200-630.png%3Fhl%3Des&imgrefurl=https%3A%2F%2Fcloud.google.com%2Flogging%3Fhl%3Des&tbnid=xIkSNSOOyA48PM&vet=12ahUKEwiIpr3I8Pb7AhXBs5UCHUuUCz0QMygCegUIARC7AQ..i&docid=bICNm1eYReHyYM&w=1200&h=630&q=google%20cloud%20platform&hl=en&ved=2ahUKEwiIpr3I8Pb7AhXBs5UCHUuUCz0QMygCegUIARC7AQ)
+  * Cloud: [![gcp](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
   * Parallel Computing: ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
