@@ -36,20 +36,22 @@ This program parallelizes the download of tax information of any company located
 
   * Languages: [![python-r](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
 
-  * ML Packages: ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  * Machine Learning Frameworks: [![ml](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) ![sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
   
   * Cloud: [![gcp](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+  
+  * Containers: [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
   * Parallel Computing: ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
-  * Databases: ![MongoDB]( https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  * Databases: [![python-r](https://skillicons.dev/icons?i=mongodb,sqlite,postgres)](https://skillicons.dev)
 
   * DataViz: ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-  * Version Control: ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  * Version Control: [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-  * OS: ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  * OS: [![linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-  * Code Editor: ![sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+  * Code Editor: [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-  * Text Editor: ![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+  * Text Editor: [![latex](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
