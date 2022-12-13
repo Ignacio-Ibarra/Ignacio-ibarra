@@ -5,9 +5,10 @@ I'm Nacho, from Buenos Aires.
 <a href="https://www.linkedin.com/in/ignacio-ibarra-116194150" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-Economic researcher at [**CEP XXI**](https://www.argentina.gob.ar/produccion/cep), with some valuable coding skills. 
+Data Engineer and Data Scientists at [**Nisum Chile SPA**][(https://www.nisum.com/es/inicio)], extracting value from data. 
 
-I dedicate myself to researching Argentine foreign trade, using large international trade datasets like [COMTRADE](https://comtrade.un.org/data/doc/api/), [CEPII-BACI](http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=37), [TradingEconomics](https://tradingeconomics.com/api/) and the **Dirección General de Aduanas** (DGA, General Directorate of Customs) database. 
+Semi Senior Data Scientist - Economist from the Faculty of Economic Sciences of the University of Buenos Aires, Argentina. Student of the Master of Data Mining & KDD of the Faculty of Exact and Natural Sciences of the University of Buenos Aires. With 5 years of experience in the field of data science, developing statistical and machine learning models, applying data mining techniques, developing ETL processes and reporting in the area of public policies applied to industrial development and foreign trade. I am currently working on issues related to Advanced Analytics at Nisum Latam, participating in cloud migration projects in the banking sector and advising companies on the implementation of predictive models with machine learning. My areas of interest are machine learning, artificial intelligence, data mining, data modeling, predictive modeling, data ingestion,  data transformation and data warehousing.
+
 
 ### #RecentProjects  
 
@@ -36,6 +37,8 @@ This program parallelizes the download of tax information of any company located
   * Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
   * ML Packages: ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
+  * Cloud: ![gcp](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcloud.google.com%2F_static%2Fcloud%2Fimages%2Fsocial-icon-google-cloud-1200-630.png%3Fhl%3Des&imgrefurl=https%3A%2F%2Fcloud.google.com%2Flogging%3Fhl%3Des&tbnid=xIkSNSOOyA48PM&vet=12ahUKEwiIpr3I8Pb7AhXBs5UCHUuUCz0QMygCegUIARC7AQ..i&docid=bICNm1eYReHyYM&w=1200&h=630&q=google%20cloud%20platform&hl=en&ved=2ahUKEwiIpr3I8Pb7AhXBs5UCHUuUCz0QMygCegUIARC7AQ)
 
   * Parallel Computing: ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
