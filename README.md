@@ -2,12 +2,16 @@
 
 I'm Nacho, from Buenos Aires. 
 
-<a href="https://www.linkedin.com/in/ignacio-ibarra-116194150" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ignacio-ibarra-ok" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-Data Analytics Engineer at [**Fundar**](https://fund.ar/). 
+Data Analytics Engineer at [**Fundar**](https://fund.ar/). Currently working on [**Argendata**](https://argendata.fund.ar/)
 
-Semi Senior Data Scientist - Economist from the Faculty of Economic Sciences of the University of Buenos Aires, Argentina. Master's student in Data Mining & KDD at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. With 6 years of experience in the field of data science, developing statistical and machine learning models, applying data mining techniques, developing ETL processes and reporting in the area of ​​public policies applied to industrial development and foreign trade. I currently work in Data Governance at Fundar. We are developing a website based on data from Argentina, for which it is necessary to manage and process multiple sources of information. My areas of interest are machine learning, artificial intelligence, data mining, data modeling, predictive modeling, data ingestion, data transformation and data warehousing.
+**Semi-Senior Data Scientist | Economist | Master's Student in Data Mining & KDD**
+
+I hold a degree in Economics from the Faculty of Economic Sciences at the University of Buenos Aires, Argentina, and I am currently pursuing a Master's in Data Mining & Knowledge Discovery (KDD) at the Faculty of Exact and Natural Sciences at the same university. With over 6 years of experience in data science, I've developed expertise in building statistical and machine learning models, applying data mining techniques, and creating ETL processes. My work focuses on public policies related to industrial development and foreign trade, providing insights through advanced reporting and data analysis.
+
+Currently, I work in Data Governance at Fundar, where I’m involved in developing a data-driven website that leverages multiple sources of information to offer insights on Argentina. My professional interests include machine learning, artificial intelligence, data mining, predictive modeling, data ingestion, transformation, and warehousing.
 
 ### #MySkills
 
