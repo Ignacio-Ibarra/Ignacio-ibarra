@@ -5,7 +5,7 @@ I'm Nacho, from Buenos Aires.
 <a href="https://www.linkedin.com/in/ignacio-ibarra-ok" rel="ignacio-ibarra">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-Data Analytics Engineer at [**Fundar**](https://fund.ar/). Currently working on [**Argendata**](https://argendata.fund.ar/) proyect.
+Data Analytics Engineer at [**Fundar**](https://fund.ar/). Currently working on [**Argendata**](https://argendata.fund.ar/) project.
 
 **Semi-Senior Data Scientist | Economist | Master's Student in Data Mining & KDD**
 
@@ -13,19 +13,30 @@ I hold a degree in Economics from the Faculty of Economic Sciences at the Univer
 
 Currently, I'm working at Fundar as a Data Analytics Engineer, where I’m involved in developing Argendata, a data-driven website that leverages multiple sources of information to offer insights on Argentina. My professional interests include machine learning, artificial intelligence, data mining, predictive modeling, data ingestion, transformation, and warehousing.
 
-### #MySkills
+## 🚀 My Skills
 
-  * Languages: [![python-r](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
+### 💻 Languages  
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,r&titles=true)
 
-  * Machine Learning Frameworks: [![ml](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) ![sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-  
-  * Cloud: [![gcp](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
-  
-  * Containers: [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+### 🤖 Machine Learning Frameworks  
+![ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scipy,scikitlearn&titles=true)
 
-  * Databases: [![python-r](https://skillicons.dev/icons?i=mongodb,sqlite,postgres)](https://skillicons.dev)
+### ☁️ Cloud  
+![GCP](https://go-skill-icons.vercel.app/api/icons?i=gcp&titles=true)
 
-  * DataViz: ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+### 📦 Containers  
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)
 
-  * Version Control: [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+### 🗄️ Databases  
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=bigquery,mongodb,sqlite,sqlalchemy&titles=true)
+
+### 📊 Data Visualization  
+![DataViz](https://go-skill-icons.vercel.app/api/icons?i=plotly,matplotlib,seaborn&titles=true)
+
+### 📈 Business Intelligence  
+![BI](https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true)
+
+### 🛠️ Version Control  
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true)
+
 
