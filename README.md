@@ -28,7 +28,7 @@ Currently, I'm working at Fundar as a Data Analytics Engineer, where I’m invol
 ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)
 
 ### 🗄️ Databases  
-![Databases]
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=bigquery,mongodb,sqlite,sqlalchemy&titles=true)
 
 ### 🖥️ API & Web Apps
 ![apis](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,streamlit&titles=true)
