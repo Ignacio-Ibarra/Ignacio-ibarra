@@ -18,8 +18,8 @@ Currently, I'm working at Fundar as a Data Analytics Engineer, where I’m invol
 ### 💻 Languages  
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,r&titles=true)
 
-### 🤖 Machine Learning Frameworks  
-![ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scipy,scikitlearn&titles=true)
+### 🤖 Machine Learning Frameworks & MLOps
+![ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scipy,scikitlearn,mlflow&titles=true)
 
 ### ☁️ Cloud  
 ![GCP](https://go-skill-icons.vercel.app/api/icons?i=gcp&titles=true)
@@ -28,10 +28,10 @@ Currently, I'm working at Fundar as a Data Analytics Engineer, where I’m invol
 ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)
 
 ### 🗄️ Databases  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=bigquery,mongodb,sqlite,sqlalchemy&titles=true)
+![Databases]
 
-### 📊 Data Visualization  
-![DataViz](https://go-skill-icons.vercel.app/api/icons?i=plotly,matplotlib,seaborn&titles=true)
+### 🖥️ API & Web Apps
+![apis](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,streamlit&titles=true)
 
 ### 📈 Business Intelligence  
 ![BI](https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true)
